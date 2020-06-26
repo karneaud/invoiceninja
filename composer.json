@@ -146,6 +146,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/davidbankes/omnipay-firstdata.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://karneaud@bitbucket.org/karneaud/omnipay-wipay.git"
         }
     ]
 }
