@@ -63,6 +63,7 @@
         "patricktalmadge/bootstrapper": "5.5.x",
         "pragmarx/google2fa-laravel": "^0.1.2",
         "predis/predis": "^1.1",
+        "karneaud/omnipay-wipay":"^1.1.11",
         "roave/security-advisories": "dev-master",
         "simshaun/recurr": "dev-master",
         "stripe/stripe-php": "^6.40",
