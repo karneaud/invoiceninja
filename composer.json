@@ -42,6 +42,7 @@
         "jaybizzle/laravel-crawler-detect": "1.*",
         "jlapp/swaggervel": "master-dev",
         "jonnyw/php-phantomjs": "dev-fixes",
+        "karneaud/omnipay-wipay":"^1.1.11",
         "laracasts/presenter": "dev-master",
         "laravel/framework": "5.5.*",
         "laravel/legacy-encrypter": "^1.0",
